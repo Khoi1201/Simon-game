@@ -93,5 +93,5 @@ function checkAnswer(currentLevel) { // noob
 function startOver() { // noob
   level = 0;
   gamePattern = [];
-  gameStarted = false;
+  gameStarted = 0;
 }
